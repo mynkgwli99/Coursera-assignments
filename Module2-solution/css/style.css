@@ -60,18 +60,21 @@ section{
     padding: 5px;
     background-color:#14def5 ;
 }
-#sushi{
-    border: 1px solid black;
-    text-align: center;
-    width: 30%;
-    margin-left: 70%;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 125%;
-    margin-bottom: 0em;
-    margin-top: 0em;
-    padding: 5px;
-    background-color: #e85a72;
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #6495ED;
+	color: white;
+	padding: 5px;
 }
+
 .row{
     width: 100%;
 }
